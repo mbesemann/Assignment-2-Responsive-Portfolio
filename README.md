@@ -1,3 +1,3 @@
-# Assignment-2-Responsive-Portfolio
+# Responsive-Portfolio
 
 Responsive portfolio using Bootstrap.
